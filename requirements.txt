@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+pandas
+PyPDF2
+python-docx
+pdfplumber
+reportlab
+nltk
+numpy
